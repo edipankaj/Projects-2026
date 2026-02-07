@@ -8,7 +8,6 @@ int main () {
     cin >> x;       
     cout <<"Subtract: "  << x-y << endl;
     cout <<"Multiply: "  << x*y << endl;
-    cout <<"Addition : "  << x+1
-    y << endl;    
+    cout <<"Addition : "  << x+y << endl;    
     return 0;
 }
